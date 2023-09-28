@@ -1,5 +1,5 @@
 
-![][https://raw.githubusercontent.com/Alex1990opac/project_2/master/Ec60634bb4-original.jpg]
+![asd][https://raw.githubusercontent.com/Alex1990opac/project_2/master/Ec60634bb4-original.jpg height = 500 width = 500]
 # <center> Работа с базой данных из Python </center>
 ## Оглавление
 1. [Описание проекта](#описание-проекта)
