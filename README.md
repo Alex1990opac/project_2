@@ -1,5 +1,6 @@
 
-![asd][https://raw.githubusercontent.com/Alex1990opac/project_2/master/Ec60634bb4-original.jpg height = 500 width = 500]
+<image src = https://raw.githubusercontent.com/Alex1990opac/project_2/master/Ec60634bb4-original.jpg>
+
 # <center> Работа с базой данных из Python </center>
 ## Оглавление
 1. [Описание проекта](#описание-проекта)
@@ -55,3 +56,4 @@ git clone https://github.com/Alex1990opac/project_2
 В данном проекте мы сделали анализ и визуализацию данных из таблиц соответсвующим вакансиям сайта HeadHunter в оболочке "Python" делая соединение с БД и осуществляя  разного вида SQL - запросы и на основе полученных данных сделать определенные логические выводы о _вакансиях_, _работодателях_, _компаниях_ и _регионах_. 
 
 [def]: ./Ec60634bb4-original.jpg
+[def2]: \My_trening\SQL\Ec60634bb4-original.jpg
